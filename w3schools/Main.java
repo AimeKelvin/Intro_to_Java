@@ -1,9 +1,8 @@
 public class Main {
 public static void main(String[] args){
 
-String blue, red, violet;
-violet =  blue = red = " Color";
-
-    System.out.print(blue  + red);
+int length = 4;
+int width = 3;
+int area = length * width //Formula of area of rectangle is L X W
 }
 }
